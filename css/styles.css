@@ -1,8 +1,8 @@
-a {
+a:link, a:visited {
     color: black;
 }
 
-a:hover {
+a:hover, a:active {
     color: rgb(125, 125, 125);
     text-decoration: none;
 }
